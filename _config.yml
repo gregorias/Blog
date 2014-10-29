@@ -1,0 +1,14 @@
+# Site settings
+title: Grzegorz Milka's Blog
+name: Grzegorz Milka
+email: grzegorzmilka@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A public blog for my notes and thoughts.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://gregorias.me" # the base hostname & protocol for your site
+github_username:  gregorias
+
+# Build settings
+markdown: kramdown
+
+safe: true
