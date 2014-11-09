@@ -10,5 +10,6 @@ github_username:  gregorias
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
 
 safe: true
