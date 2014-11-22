@@ -6,9 +6,9 @@ uses_mathjax: true
 tags: blog programming history
 ---
 This post will summarise history of the early programming languages as written
-in Knuth's article ["The early development of programming
-languages"][knuthpaper]. Most of the work in this post was done by him. It was
-presented in Computer History class in 2014.
+in Knuth's article "The early development of programming languages". Most of the
+work in this post was done by him. It was presented in Computer History class in
+2014.
 
 It is interesting to study the history of computer science, to see how many
 ideas which are now internalised and taken for granted were then formed in great
@@ -825,5 +825,3 @@ what would work and what wouldn't, which ideas are worth pursuing and which
 aren't. It was a very hard task since nobody had ever done this before and what
 they had seemed good enough then. When complacency is common it is difficult to
 innovate.
-
-[knuthpaper]: http://bitsavers.informatik.uni-stuttgart.de/pdf/stanford/cs_techReports/STAN-CS-76-562_EarlyDevelPgmgLang_Aug76.T9.pdf
