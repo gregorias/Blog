@@ -52,13 +52,15 @@ img {
  */
 figure > img {
     display: block;
+    width: 90%;
+    margin: auto;
 }
 
 figcaption {
     font-size: $small-font-size;
+    text-align: center;
+    margin: 10px auto;
 }
-
-
 
 /**
  * Lists
