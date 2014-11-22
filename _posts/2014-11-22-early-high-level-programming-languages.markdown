@@ -826,4 +826,4 @@ aren't. It was a very hard task since nobody had ever done this before and what
 they had seemed good enough then. When complacency is common it is difficult to
 innovate.
 
-[knuthpaper]: http://bitsavers.informatik.uni-stuttgart.de/pdf/stanford/cs_techReports/STAN-CS-76-562_EarlyDevelPgmgLang_Aug76.T9pdf
+[knuthpaper]: http://bitsavers.informatik.uni-stuttgart.de/pdf/stanford/cs_techReports/STAN-CS-76-562_EarlyDevelPgmgLang_Aug76.T9.pdf
