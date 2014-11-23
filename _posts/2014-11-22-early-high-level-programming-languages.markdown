@@ -7,8 +7,7 @@ tags: blog programming history
 ---
 This post will summarise history of the early programming languages as written
 in Knuth's article "The early development of programming languages". Most of the
-work in this post was done by him. It was presented in Computer History class in
-2014.
+work in this post was done by him.
 
 It is interesting to study the history of computer science, to see how many
 ideas which are now internalised and taken for granted were then formed in great
