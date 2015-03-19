@@ -7,14 +7,13 @@ tags: blog cython python programming fft dsp
 category: computer science
 ---
 In one of my current prototype projects I need to encode voice into binary data
-and then later transfer it through a voice channel like Skype. This forced me
-to push my limits and learn new things which I will describe here. This post
-will explain technologies I use, rationale behind them, and give basic advice on
-how to use them. First I will describe basic theory around modulation and
-demodulation, then I will describe how to combine Cython and profiling to build
-a flexible and efficient Python application. In the last section I will talk
-about pulseaudio and how it allows me to perform user testing without using an
-external device.
+and then later transfer it through a voice channel. This forced me to push my
+limits and learn new things which I will describe here. This post will explain
+technologies I use, rationale behind them, and give basic advice on how to use
+them. First I will describe basic theory around modulation and demodulation,
+then I will describe how to combine Cython and profiling to build a flexible and
+efficient Python application. In the last section I will talk about pulseaudio
+and how it allows me to perform user testing without using an external device.
 
 Modulation and demodulation
 ===========================
