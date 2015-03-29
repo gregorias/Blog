@@ -22,9 +22,8 @@ input: a continuous stream of voice represented by audio samples. On the output
 it plays audio that is transmitted by an independent voice communicator. The
 decoder does the reverse.
 
-What makes this task non-trivial is that in the middle the voice is encrypted,
-thereby producing a seemingly random bytestring. This task includes a few
-challenges:
+What makes this task non-trivial is that in the middle the voice is encoded,
+producing a seemingly random bytestring. This task includes a few challenges:
 
 * How one should modulate the bytestring so that voice communicators do not
   distort it?
