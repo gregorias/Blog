@@ -7,8 +7,10 @@ category: computer science
 ---
 
 On one lazy evening I checked out what kind of new flash game have appeared on
-Kongregate. That lead to me discover [Pixelo](pixelo) - a
-[nonogram](nonogramwiki) 
+Kongregate. That lead to me discover [Pixelo][pixelo] - a
+[nonogram][nonogramwiki] puzzle game with well done GUI and lots of puzzles. I
+really enjoy this kind of simple puzzles, however there were a lot of them and
+I wanted
 
 Motivation
 ==========

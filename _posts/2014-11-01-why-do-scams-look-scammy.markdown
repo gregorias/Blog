@@ -53,8 +53,8 @@ and/or $$ C $$ decreases his optimal attack point moves further to the
 upper-right, attacking bigger portion of the population, scamming more targets
 and annoying bigger percentage of nongullible population.
 
-the most important factor in this model is the density of targets in population
-$$ d = \frac{m}{n} $$. it turns out that the attacked population at optimal
+The most important factor in this model is the density of targets in population
+$$ d = \frac{m}{n} $$. It turns out that the attacked population at optimal
 point decreases unproportionately to the decrease of density. The paper even
 shows example where a 10x drop in density results in 1000x drop of attacked
 population size. This phenomena prevents the scammer from attacking any
